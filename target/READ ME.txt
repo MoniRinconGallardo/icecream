@@ -1,1 +1,2 @@
-Descomprime icecream-0.0.1-SNAPSHOT.zip y sácalo de la carpeta
+Descarga el archivo .jar del siguiente link y pégalo en esta carpeta
+https://drive.google.com/drive/folders/1DgNO-a2Kf7YCvQKXL1YUOJGbSu18WRNq?usp=sharing
